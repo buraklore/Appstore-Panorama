@@ -1,0 +1,302 @@
+{
+  "canvas": {
+    "panels": 8,
+    "panel_width": 1320,
+    "panel_height": 2868,
+    "seed": 7
+  },
+  "output": {
+    "sizes": [
+      "iphone-6.9",
+      "iphone-6.5"
+    ]
+  },
+  "background": {
+    "transition_px": 70,
+    "scenes": [
+      {
+        "panels": [
+          0,
+          1
+        ],
+        "colors": [
+          "#4B2FD6",
+          "#7A5CFA"
+        ]
+      },
+      {
+        "panels": [
+          2,
+          3
+        ],
+        "colors": [
+          "#F5479B",
+          "#E8338A"
+        ]
+      },
+      {
+        "panels": [
+          4,
+          5
+        ],
+        "colors": [
+          "#1FA8C8",
+          "#1FC8A0"
+        ]
+      },
+      {
+        "panels": [
+          6,
+          7
+        ],
+        "colors": [
+          "#FF8A3D",
+          "#F2553C"
+        ]
+      }
+    ]
+  },
+  "brand": {
+    "x": 0.091,
+    "y": 120,
+    "icon": "icon.png",
+    "name": "Aramızda!"
+  },
+  "headlines": [
+    {
+      "panel": 0,
+      "lines": [
+        "Arkadaş grubunun",
+        "parti oyunu"
+      ],
+      "pill_line": 1,
+      "pill_color": "#FFD166",
+      "pill_text": "#2A1B6B",
+      "y": 300
+    },
+    {
+      "panel": 1,
+      "lines": [
+        "Oda kur,",
+        "kodu gönder,",
+        "başlayın!"
+      ],
+      "pill_line": 2,
+      "pill_color": "#FFD166",
+      "pill_text": "#2A1B6B",
+      "y": 250
+    },
+    {
+      "panel": 2,
+      "lines": [
+        "Uyumunuz",
+        "yüzde kaç?"
+      ],
+      "pill_line": 1,
+      "pill_text": "#C2185B",
+      "y": 300
+    },
+    {
+      "panel": 3,
+      "lines": [
+        "İkiniz de cevaplayın,",
+        "birbirinizi",
+        "tahmin edin"
+      ],
+      "pill_line": 2,
+      "pill_text": "#C2185B",
+      "y": 250
+    },
+    {
+      "panel": 4,
+      "lines": [
+        "Tek telefon,",
+        "31 mini oyun"
+      ],
+      "pill_line": 1,
+      "pill_text": "#0E8F7A",
+      "y": 300
+    },
+    {
+      "panel": 5,
+      "lines": [
+        "Bota karşı:",
+        "Kolay, Normal, Zor"
+      ],
+      "pill_line": 1,
+      "pill_text": "#0E8F7A",
+      "y": 300
+    },
+    {
+      "panel": 6,
+      "lines": [
+        "Alnına daya,",
+        "tahmin et!"
+      ],
+      "pill_line": 1,
+      "pill_text": "#D9480F",
+      "y": 300
+    },
+    {
+      "panel": 7,
+      "lines": [
+        "28 deste,",
+        "1.600+ kelime"
+      ],
+      "pill_line": 1,
+      "pill_text": "#D9480F",
+      "y": 300
+    }
+  ],
+  "phones": [
+    {
+      "screen": "screens/home.png",
+      "x": 1.0,
+      "y": 1960,
+      "width": 880,
+      "angle": -5
+    },
+    {
+      "screen": "screens/couples_play.png",
+      "x": 3.652,
+      "y": 2120,
+      "width": 720,
+      "angle": 7,
+      "z": 9
+    },
+    {
+      "screen": "screens/couples_report.png",
+      "x": 2.97,
+      "y": 1960,
+      "width": 880,
+      "angle": -4
+    },
+    {
+      "screen": "screens/duel_hub.png",
+      "x": 5.652,
+      "y": 2120,
+      "width": 720,
+      "angle": 6,
+      "z": 9
+    },
+    {
+      "screen": "screens/game_jewel.png",
+      "x": 4.97,
+      "y": 1960,
+      "width": 880,
+      "angle": -5
+    },
+    {
+      "screen": "screens/charades.png",
+      "x": 7.0,
+      "y": 1960,
+      "width": 880,
+      "angle": -5
+    }
+  ],
+  "stickers": [
+    {
+      "emoji": "Party popper",
+      "x": 0.227,
+      "y": 1560,
+      "size": 400,
+      "angle": 12,
+      "z": 5
+    },
+    {
+      "emoji": "Face with tears of joy",
+      "x": 0.189,
+      "y": 2330,
+      "size": 330,
+      "angle": -10,
+      "z": 5
+    },
+    {
+      "emoji": "Balloon",
+      "x": 1.78,
+      "y": 1400,
+      "size": 300,
+      "angle": 8,
+      "z": 5
+    },
+    {
+      "emoji": "Sparkles",
+      "x": 1.833,
+      "y": 2440,
+      "size": 230,
+      "z": 5
+    },
+    {
+      "emoji": "Red heart",
+      "x": 2.023,
+      "y": 1180,
+      "size": 380,
+      "angle": -14,
+      "z": 5
+    },
+    {
+      "emoji": "Smiling face with heart-eyes",
+      "x": 2.25,
+      "y": 2350,
+      "size": 330,
+      "angle": 10
+    },
+    {
+      "emoji": "Love letter",
+      "x": 3.833,
+      "y": 1330,
+      "size": 280,
+      "angle": -12
+    },
+    {
+      "emoji": "Video game",
+      "x": 4.015,
+      "y": 2360,
+      "size": 380,
+      "angle": 16,
+      "z": 5
+    },
+    {
+      "emoji": "Gem stone",
+      "x": 4.22,
+      "y": 1400,
+      "size": 300,
+      "angle": 14
+    },
+    {
+      "emoji": "Robot",
+      "x": 5.826,
+      "y": 1300,
+      "size": 340,
+      "angle": -8
+    },
+    {
+      "emoji": "Thinking face",
+      "x": 6.03,
+      "y": 2380,
+      "size": 360,
+      "angle": -10
+    },
+    {
+      "emoji": "Clapper board",
+      "x": 6.25,
+      "y": 1330,
+      "size": 320,
+      "angle": 10
+    },
+    {
+      "emoji": "Microphone",
+      "x": 7.811,
+      "y": 1380,
+      "size": 300,
+      "angle": -14
+    },
+    {
+      "emoji": "Light bulb",
+      "x": 7.826,
+      "y": 2420,
+      "size": 280,
+      "angle": 8
+    }
+  ]
+}

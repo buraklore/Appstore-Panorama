@@ -1,0 +1,180 @@
+{
+  "canvas": {
+    "panels": 6,
+    "panel_width": 1320,
+    "panel_height": 2868,
+    "seed": 3
+  },
+  "output": {
+    "sizes": [
+      "iphone-6.9",
+      "iphone-6.5"
+    ]
+  },
+  "background": {
+    "transition_px": 70,
+    "scenes": [
+      {
+        "panels": [
+          0,
+          1
+        ],
+        "colors": [
+          "#0E8F5B",
+          "#1FB874"
+        ]
+      },
+      {
+        "panels": [
+          2,
+          3
+        ],
+        "colors": [
+          "#2F6BFF",
+          "#4C8DFF"
+        ]
+      },
+      {
+        "panels": [
+          4,
+          5
+        ],
+        "colors": [
+          "#FF8A3D",
+          "#F2553C"
+        ]
+      }
+    ]
+  },
+  "brand": {
+    "x": 0.09,
+    "y": 120,
+    "name": "Leafy"
+  },
+  "headlines": [
+    {
+      "panel": 0,
+      "lines": [
+        "Never forget",
+        "to water again"
+      ],
+      "pill_line": 1,
+      "pill_color": "#FFD166",
+      "pill_text": "#0B3D2A"
+    },
+    {
+      "panel": 1,
+      "lines": [
+        "All your plants,",
+        "one calm list"
+      ],
+      "pill_line": 1,
+      "pill_color": "#FFD166",
+      "pill_text": "#0B3D2A"
+    },
+    {
+      "panel": 2,
+      "lines": [
+        "Watch them",
+        "grow"
+      ],
+      "pill_line": 1,
+      "pill_text": "#1F4FD1"
+    },
+    {
+      "panel": 3,
+      "lines": [
+        "Weekly health",
+        "reports"
+      ],
+      "pill_line": 1,
+      "pill_text": "#1F4FD1"
+    },
+    {
+      "panel": 4,
+      "lines": [
+        "Smart",
+        "reminders"
+      ],
+      "pill_line": 1,
+      "pill_text": "#D9480F"
+    },
+    {
+      "panel": 5,
+      "lines": [
+        "Made for",
+        "busy people"
+      ],
+      "pill_line": 1,
+      "pill_text": "#D9480F"
+    }
+  ],
+  "phones": [
+    {
+      "screen": "screens/01.png",
+      "x": 1.0,
+      "y": 1960,
+      "width": 880,
+      "angle": -5
+    },
+    {
+      "screen": "screens/02.png",
+      "x": 3.0,
+      "y": 1960,
+      "width": 880,
+      "angle": -4
+    },
+    {
+      "screen": "screens/03.png",
+      "x": 5.0,
+      "y": 1960,
+      "width": 880,
+      "angle": -5
+    }
+  ],
+  "stickers": [
+    {
+      "emoji": "Potted plant",
+      "x": 0.23,
+      "y": 1560,
+      "size": 400,
+      "angle": 10,
+      "z": 5
+    },
+    {
+      "emoji": "Droplet",
+      "x": 0.2,
+      "y": 2350,
+      "size": 300,
+      "angle": -8,
+      "z": 5
+    },
+    {
+      "emoji": "Seedling",
+      "x": 2.0,
+      "y": 1200,
+      "size": 360,
+      "angle": -12
+    },
+    {
+      "emoji": "Chart increasing",
+      "x": 3.78,
+      "y": 1350,
+      "size": 300,
+      "angle": 8
+    },
+    {
+      "emoji": "Alarm clock",
+      "x": 4.0,
+      "y": 2380,
+      "size": 360,
+      "angle": 14
+    },
+    {
+      "emoji": "Sparkles",
+      "x": 5.8,
+      "y": 2440,
+      "size": 260
+    }
+  ]
+}
